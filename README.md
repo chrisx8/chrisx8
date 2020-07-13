@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](https://raw.githubusercontent.com/chrisx8/chrisx8/master/banner.png)
 
 **Hi! I'm Chris Xiao, an aspiring software engineer and first-year computer science student.**
 
