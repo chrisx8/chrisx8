@@ -1,8 +1,8 @@
-![Banner](https://raw.githubusercontent.com/chrisx8/chrisx8/master/banner.png)
+![Banner](https://raw.githubusercontent.com/chrisx8/chrisx8/master/images/banner.png)
 
-**Hi! I'm Chris Xiao, an aspiring software engineer and first-year computer science student.**
+**Hi! I'm Chris Xiao, an aspiring software engineer and first-year Computer Science student.**
 
-[Website](https://chrisx.xyz/) · [Behance](https://www.behance.net/chrisx8) · [LinkedIn](https://www.linkedin.com/in/chris-xiao)
+[![Website](https://raw.githubusercontent.com/chrisx8/chrisx8/master/images/website.png)](https://chrisx.xyz/) · [![Behance](https://raw.githubusercontent.com/chrisx8/chrisx8/master/images/behance.png)](https://www.behance.net/chrisx8) · [![LinkedIn](https://raw.githubusercontent.com/chrisx8/chrisx8/master/images/linkedin.png)](https://www.linkedin.com/in/chris-xiao)
 
 ## About me
 
