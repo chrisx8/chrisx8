@@ -11,6 +11,7 @@
 
 - First-year Computer Science student
 - Experienced in Java & Python programming
+- Experienced in Windows & Linux administration, network administration, and PC hardware
 - GNU/Linux & FOSS enthusiast
 - FIRST&reg; Alumni
 - Casual photographer
