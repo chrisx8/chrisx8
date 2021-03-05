@@ -1,6 +1,13 @@
-![Banner](https://raw.githubusercontent.com/chrisx8/chrisx8/main/images/banner.png)
+![Chris Xiao](https://raw.githubusercontent.com/chrisx8/chrisx8/main/images/banner.png)
 
-**Hi👋 I'm Chris Xiao, an aspiring software engineer and first-year Computer Science student.**
+## Hi there👋
+
+- 💼 I'm an aspiring software engineer and first-year Computer Science student.
+- 🌐 Check out my [Firefox Hardeing Guide](https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/) and [Linux Tutorials](https://chrisx.xyz/blog/tag/linux/).
+- 💬 Ask me about computers, tech, photography, and travelling.
+- 📧 How to contact me: Fill out the [contact form](https://chrisx.xyz/contact/) on my website.
+
+## Links🔗
 
 [![](https://raw.githubusercontent.com/chrisx8/chrisx8/main/images/resume.png) Resume](https://chrisx.xyz/media/chrisxiao_resume_web.pdf) &nbsp; 
 [![](https://raw.githubusercontent.com/chrisx8/chrisx8/main/images/website.png) Website](https://chrisx.xyz/) &nbsp; 
