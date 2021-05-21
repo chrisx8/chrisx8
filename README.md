@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-- 💼 I'm an aspiring software engineer and first-year Computer Science student.
+- 💼 I'm a Computer Science student and aspiring software engineer.
 - 🌐 Check out my [Firefox Hardeing Guide](https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/) and [Linux Tutorials](https://chrisx.xyz/blog/tag/linux/).
 - 💬 Ask me about computers, tech, photography, and travelling.
 - 📧 How to contact me: Fill out the [contact form](https://chrisx.xyz/contact/) on my website.
